@@ -1,2 +1,2 @@
 # Collapsible Panels in VB.NET
-***Introduction***
+# Collapsible Panels in VB.NET
