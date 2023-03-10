@@ -1,3 +1,3 @@
 # Collapsible Panels in VB.NET
 
-<h1 style="font-size:5vw">Hello World</h1>
+<h1 style="font-size:0.875em">Hello World</h1>
